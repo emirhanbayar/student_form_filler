@@ -2,7 +2,7 @@
 
 # Ogrenci-Formu-Doldurucusu
 
-Haftalık ders programını EBA'ya aktarmak için kullanabilirsiniz.
+Öğrenci bilgilerini E-Okul'a girmek için kullanabilirsiniz. Artık her bir öğrenci için 22 tane bilgiyi tek tek girmek zorunda değilsiniz. 
 
 ## Gereksinimler
 
@@ -33,6 +33,6 @@ Aşağıdaki komutları terminalde çalıştırın:
 python3 filler.py
 ```
 
-- Program çalışınca ilk olarak e okula giriş yapmanızı isteyecek. her bir öğrenci için bütün bilgileri otomatik olarak dolacaktır. Yaklaşık (40 saniye * öğrenci sayısı) kadar sürecektir.
+- Program çalışınca ilk olarak e okula giriş yapmanızı isteyecek. her bir öğrenci için bütün bilgileri otomatik olarak dolacaktır. Yaklaşık (20 saniye * öğrenci sayısı) kadar sürecektir.
 
 
