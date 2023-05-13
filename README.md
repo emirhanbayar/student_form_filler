@@ -1,5 +1,3 @@
-2) filler.py dosyasını çalıştırın.
-
 # Ogrenci-Formu-Doldurucusu
 
 Öğrenci bilgilerini E-Okul'a girmek için kullanabilirsiniz. Artık her bir öğrenci için 22 tane bilgiyi tek tek girmek zorunda değilsiniz. 
